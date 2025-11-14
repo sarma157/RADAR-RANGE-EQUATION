@@ -92,7 +92,7 @@ plot(pmin,Rmax3);
 
 ## Manual Calculation
 
-![WhatsApp Image 2025-11-07 at 19 35 01_9f7d5525](https://github.com/user-attachments/assets/07b3cc3f-4220-4906-b097-780aef48d160)
+![WhatsApp Image 2025-11-13 at 12 52 31_00bc96de](https://github.com/user-attachments/assets/4e5118b6-39f1-4ab9-b65e-aebd95d0f8a4)
 
 
 
